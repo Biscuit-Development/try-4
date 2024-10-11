@@ -1,4 +1,4 @@
-const correctPassword = "your_password"; // Replace with your actual password
+const correctPassword = "mehul21"; // Replace with your actual password
 
 function checkPassword() {
     const userPassword = document.getElementById("password").value;
